@@ -6,6 +6,7 @@ public class GameWindow extends JPanel {
     public GameWindow() {
         this.setDoubleBuffered(true);
         this.setBackground(Color.BLACK);
+        System.out.println("THIS IS A TEST COMMIT");
 
     }
 
